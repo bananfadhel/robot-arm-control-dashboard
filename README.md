@@ -31,7 +31,7 @@ Users can adjust motor angles using sliders and save the current position to a d
 
 1. Start Apache & MySQL from XAMPP
 2. Place the files in the `htdocs` directory
-3. Visit `http://localhost/robot-arm-mini-dashboard`
+3. Visit `http://localhost/robot-arm-dashboard`
 4. Adjust motor sliders and click “Save Position”
 
 ---
